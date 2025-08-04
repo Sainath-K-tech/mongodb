@@ -35,12 +35,15 @@ A simple command-line interface (CLI) application for managing student records u
    cd your-repo-name
 
 2. **Install Dependencies**
+   ```bash
     npm install
 
-3. **Ensure Mongodb is running**
+4. **Ensure Mongodb is running**
+   ```bash
    mongod
 
-4. **Run the Apllication**
+6. **Run the Apllication**
+   ```bash
    npm File_name.js
 
 ## 🧪 Usage 
